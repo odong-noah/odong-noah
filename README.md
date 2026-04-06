@@ -1,7 +1,12 @@
-## Hi there 👋
 
 # 💫 About Me:
-I am currently working on  a project that allows individuals locate mechanics around them.
+Highly focused, versatile Software Engineer and Researcher with a good
+experience in developing scalable mobile, web-based Software
+solutions that quickly adopt to new challenges and technologies. Well
+versed in Web Application development using modern languages Like
+HTML5, CSS, JAVASCRIPT AND PHP.I am also well versed with cross
+platform mobile Application development using JavaScript and the
+React Native framework.
 
 
 ## 🌐 Socials:
